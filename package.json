@@ -1,0 +1,24 @@
+{
+  "name": "online-ts",
+  "version": "1.0.0",
+  "description": "practice of typescript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anamrani0832/online-practice.git"
+  },
+  "keywords": [
+    "opt"
+  ],
+  "author": "anam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anamrani0832/online-practice/issues"
+  },
+  "homepage": "https://github.com/anamrani0832/online-practice#readme"
+}
