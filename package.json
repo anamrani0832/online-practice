@@ -12,6 +12,9 @@
     "type": "git",
     "url": "git+https://github.com/anamrani0832/online-practice.git"
   },
+  "bin": {
+    "on-ts": "bin/index.js"
+  },
   "keywords": [
     "opt"
   ],
@@ -20,5 +23,14 @@
   "bugs": {
     "url": "https://github.com/anamrani0832/online-practice/issues"
   },
-  "homepage": "https://github.com/anamrani0832/online-practice#readme"
+  "homepage": "https://github.com/anamrani0832/online-practice#readme",
+  "devDependencies": {
+    "@types/chalk": "^2.2.0",
+    "@types/inquirer": "^9.0.3",
+    "@types/node": "^18.11.9"
+  },
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "inquirer": "^9.1.4"
+  }
 }
